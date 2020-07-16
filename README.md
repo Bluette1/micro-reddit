@@ -16,10 +16,6 @@ PROJECT: BUILDING WITH ACTIVE RECORD](https://www.theodinproject.com/courses/rub
 
 - The Rails framework was used to build this project.
 
-## Live Demo
-
-[Demo Link]()
-
 ### Run instructions 
 -  You can clone the GitHub repo and type the following commands in the terminal to run the following commands 
     ```
